@@ -1,4 +1,6 @@
 # Vehicle Detection and Counting from Video Streams
+![My Image](./1.png)
+
 
 ## Project Overview
 This project aims to detect and count different types of vehicles from video streams. Using computer vision techniques, the system identifies **buses, cars, rickshaws, and bikes** and provides separate counts for each category. The project is designed to operate efficiently on video inputs, offering a real-time solution for vehicle detection and analysis.
